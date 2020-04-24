@@ -1,7 +1,7 @@
 # Klikacz obrazkowy
 
 ## opis
-lorem
+lorem zmiana
 
-## licencja
-opis
+### licencja 
+opis zmiana
